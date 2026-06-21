@@ -1,0 +1,8 @@
+[
+  {
+    "name": "kovalen",
+    "supabase_url": "https://ovvqdbrbjpoiynpjeyxx.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]

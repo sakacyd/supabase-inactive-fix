@@ -1,6 +1,6 @@
 [
   {
-    "name": "indotech_teknisi_app",
+    "name": "indotech app",
     "supabase_url": "https://llbtvfbihuxfcdpwagwr.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"

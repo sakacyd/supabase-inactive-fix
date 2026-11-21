@@ -3,8 +3,11 @@
 import json
 import os
 import logging
+from dotenv import load_dotenv
 from helpers.utils import generate_secure_random_string
 from services.supabase_service import SupabaseClient
+
+load_dotenv()
 
 # User-defined variables to toggle additional features
 log_failed_databases = True  # Set to True to log failed databases
